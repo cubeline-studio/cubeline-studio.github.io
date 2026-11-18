@@ -1,0 +1,5 @@
+body{margin:0;background:#fafafa;color:#1d1d1f;font:16px/1.7 -apple-system,"Hiragino Sans","Noto Sans JP",Helvetica,Arial,sans-serif}
+main{max-width:720px;margin:0 auto;padding:40px 20px 80px}
+h1{font-size:28px;margin:0 0 8px}h2{font-size:19px;margin:32px 0 8px}
+nav{display:flex;gap:16px;margin-bottom:32px;font-size:14px}a{color:#0a58ca}
+.note{color:#666;font-size:14px}
